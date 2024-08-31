@@ -1,0 +1,15 @@
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\bin\Debug\net8.0\Company.Repository.deps.json
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\bin\Debug\net8.0\Company.Repository.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\bin\Debug\net8.0\Company.Repository.pdb
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\bin\Debug\net8.0\Company.Data.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\bin\Debug\net8.0\Company.Data.pdb
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.csproj.AssemblyReference.cache
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.AssemblyInfoInputs.cache
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.AssemblyInfo.cs
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.csproj.CoreCompileInputs.cache
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company..98502CC8.Up2Date
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\refint\Company.Repository.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.pdb
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\ref\Company.Repository.dll
