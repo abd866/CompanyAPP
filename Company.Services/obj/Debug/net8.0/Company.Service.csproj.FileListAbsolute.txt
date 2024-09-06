@@ -15,3 +15,4 @@ E:\Bckend_route_ass\Mvc\Company.Web\Company.Services\obj\Debug\net8.0\Company.Se
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Services\obj\Debug\net8.0\refint\Company.Service.dll
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Services\obj\Debug\net8.0\Company.Service.pdb
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Services\obj\Debug\net8.0\ref\Company.Service.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Services\obj\Debug\net8.0\Company.Service.sourcelink.json

@@ -70,14 +70,12 @@ namespace Company.Data.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("HiringDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("IsDleted")
@@ -88,10 +86,9 @@ namespace Company.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PhineNumber")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<decimal>("salary")
+                    b.Property<decimal?>("salary")
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");

@@ -21,13 +21,11 @@ namespace Company.Repository.Repository
         public void Create(T Entity)
         {
             _dBContext.Set<T>().Add(Entity);
-            _dBContext.SaveChanges();
         }
 
         public void Delete(T Entity)
         {
             _dBContext.Set<T>().Remove(Entity);
-            _dBContext.SaveChanges();
         }
 
         public IEnumerable<T> GetAll()
@@ -43,7 +41,6 @@ namespace Company.Repository.Repository
         public void Update(T Entity)
         {
             _dBContext.Set<T>().Update(Entity);
-            _dBContext.SaveChanges();
         }
     }
 }

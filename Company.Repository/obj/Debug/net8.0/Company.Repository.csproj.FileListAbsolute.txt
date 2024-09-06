@@ -13,3 +13,4 @@ E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\refint\Company.Repository.dll
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.pdb
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\ref\Company.Repository.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Repository\obj\Debug\net8.0\Company.Repository.sourcelink.json

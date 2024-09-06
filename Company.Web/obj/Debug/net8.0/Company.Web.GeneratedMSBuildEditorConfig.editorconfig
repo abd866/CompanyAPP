@@ -18,8 +18,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Bckend_route_ass\Mvc\Company.Web\Company.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Department/Detalis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhbGlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Employee/Detalis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWxpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Employee/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Home/Index.cshtml]

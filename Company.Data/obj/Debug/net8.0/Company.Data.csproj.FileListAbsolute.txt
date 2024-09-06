@@ -12,3 +12,4 @@ E:\Bckend_route_ass\Mvc\Company.Web\Company.Data\obj\Debug\net8.0\refint\Company
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Data\obj\Debug\net8.0\Company.Data.pdb
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Data\obj\Debug\net8.0\Company.Data.genruntimeconfig.cache
 E:\Bckend_route_ass\Mvc\Company.Web\Company.Data\obj\Debug\net8.0\ref\Company.Data.dll
+E:\Bckend_route_ass\Mvc\Company.Web\Company.Data\obj\Debug\net8.0\Company.Data.sourcelink.json
