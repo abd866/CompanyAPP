@@ -1,6 +1,7 @@
 ﻿using Company.Data.Models;
 using Company.Repository.Interfaces;
 using Company.Service.InterFaces;
+using Company.Service.InterFaces.DTO;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Company.Web.Controllers
@@ -24,7 +25,7 @@ namespace Company.Web.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Department department )
+        public IActionResult Create(DepartmentDTO department )
         {
            if (ModelState.IsValid)
             {
@@ -49,7 +50,7 @@ namespace Company.Web.Controllers
             return View(department);
         }
         [HttpPost]
-        public IActionResult Update(Department department)
+        public IActionResult Update(DepartmentDTO department)
         {
             _department.Update(department);
             return RedirectToAction("Index");

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sCY0fWpj0kAt976zLcPI7piVasE8F15ahaC6Qm2mCxQ=",
+  "Hash": "cNsTYjJGdCJkx97npsvnF0kuL21CZK/FDlUorc1ucSY=",
   "Source": "Company.Web",
   "BasePath": "_content/Company.Web",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\File\\Images\\Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c",
+      "SourceId": "Company.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\",
+      "BasePath": "_content/Company.Web",
+      "RelativePath": "File/Images/Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\File\\Images\\Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c"
     },
     {
       "Identity": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\js\\site.js",

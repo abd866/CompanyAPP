@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Company.Web.bundle.scp.css"
     },
     {
+      "Id": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\File\\Images\\Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c",
+      "PackagePath": "staticwebassets\\File\\Images\\Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c"
+    },
+    {
       "Id": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

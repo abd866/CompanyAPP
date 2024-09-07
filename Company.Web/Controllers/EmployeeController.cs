@@ -1,6 +1,8 @@
-﻿using Company.Data.Context;
+﻿using AutoMapper;
+using Company.Data.Context;
 using Company.Data.Models;
 using Company.Service.InterFaces;
+using Company.Service.InterFaces.Employee.DTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -12,19 +14,32 @@ namespace Company.Web.Controllers
         private readonly IEmployee _employee;
         private readonly IDepartment _department;
         private readonly CompanyDBContext _context;
+        private readonly IMapper _mapp;
 
-        public EmployeeController(IEmployee employee, IDepartment department, CompanyDBContext context)
+        public EmployeeController(IEmployee employee, IDepartment department, CompanyDBContext context,IMapper mapp)
         {
             _employee = employee;
             _department = department;
             _context = context;
+            _mapp = mapp;
         }
-        public IActionResult Index()
+        public IActionResult Index(string searchInput)
         {
-            var employees = _context.Employees
-                                                      .Include(e => e.Department)
-                                                       .ToList();
-            return View(employees);
+            if (string.IsNullOrEmpty(searchInput))
+            {
+                var employees = _context.Employees
+                                                    .Include(e => e.Department)
+                                                    .ToList();
+                IEnumerable<EmployeeDTO> mappedEmp = _mapp.Map<IEnumerable<EmployeeDTO>>(employees);
+
+                return View(mappedEmp);
+            }
+            else
+            {
+                var employees = _employee.GetEmployeeByName(searchInput);
+                return View(employees);
+            }
+          
         }
 
         public IActionResult Create()
@@ -34,7 +49,7 @@ namespace Company.Web.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Employee employee)
+        public IActionResult Create(EmployeeDTO employee)
         {
             
                 _employee.Create(employee);
@@ -47,7 +62,9 @@ namespace Company.Web.Controllers
             var employee = _context.Employees
                               .Include(e => e.Department)
                               .FirstOrDefault(e => e.Id == Id);
-            return View(employee);
+            EmployeeDTO mappedEmp = _mapp.Map<EmployeeDTO>(employee);
+
+            return View(mappedEmp);
 
         }
         public IActionResult Update(int Id)
@@ -59,7 +76,7 @@ namespace Company.Web.Controllers
             return View(employee);
         }
         [HttpPost]
-        public IActionResult Update(Employee employee)
+        public IActionResult Update(EmployeeDTO employee)
         {
             _employee.Update(employee);
 

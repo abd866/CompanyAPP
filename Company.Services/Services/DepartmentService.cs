@@ -1,6 +1,9 @@
-﻿using Company.Data.Models;
+﻿using AutoMapper;
+using Company.Data.Models;
 using Company.Repository.Interfaces;
 using Company.Service.InterFaces;
+using Company.Service.InterFaces.DTO;
+using Company.Service.InterFaces.Employee.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,42 +15,54 @@ namespace Company.Service.Services
     public class DepartmentService : IDepartment
     {
         private readonly IUnitOfWork _UnitOfWork;
+        private readonly IMapper _mapper;
 
-        public DepartmentService(IUnitOfWork unitOfWork)
+        public DepartmentService(IUnitOfWork unitOfWork, IMapper mapper )
         {
             _UnitOfWork = unitOfWork;
+            _mapper = mapper;
         }
 
         public IUnitOfWork UnitOfWork { get; }
+        public IMapper Mapper { get; }
 
-        public void Create(Department Entity)
+        public void Create(DepartmentDTO employeeDTO)
         {
-            _UnitOfWork.departmentRepsoitory.Create(Entity);
+            Department department = _mapper.Map<Department>(employeeDTO);
+            _UnitOfWork.departmentRepsoitory.Create(department);
             _UnitOfWork.complate();
 
         }
 
-        public void Delete(Department Entity)
+        public void Delete(DepartmentDTO employeeDTO)
         {
-            _UnitOfWork.departmentRepsoitory.Delete(Entity);
+            Department department = _mapper.Map<Department>(employeeDTO);
+
+            _UnitOfWork.departmentRepsoitory.Delete(department);
             _UnitOfWork.complate();
         }
 
-        public IEnumerable<Department> GetAll()
+        public IEnumerable<DepartmentDTO> GetAll()
         {
-             var depaertment = _UnitOfWork.departmentRepsoitory.GetAll();
-            return depaertment;
+             var depaertmentS = _UnitOfWork.departmentRepsoitory.GetAll();
+          IEnumerable<DepartmentDTO> MappeddepaertmentS = _mapper.Map<IEnumerable<DepartmentDTO>>(depaertmentS);
+
+            return MappeddepaertmentS;
         }
 
-        public Department GetEmployee(int id)
+        public DepartmentDTO GetEmployee(int id)
         {
             var department=_UnitOfWork.departmentRepsoitory.GetEmployee(id);
-            return department;
+            DepartmentDTO Mappeddepaertment = _mapper.Map<DepartmentDTO>(department);
+
+            return Mappeddepaertment;
         }
 
-        public void Update(Department Entity)
+        public void Update(DepartmentDTO Entity)
         {
-            _UnitOfWork.departmentRepsoitory.Update(Entity);
+            Department department = _mapper.Map<Department>(Entity);
+
+            _UnitOfWork.departmentRepsoitory.Update(department);
             _UnitOfWork.complate();
         }
     }
