@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\File\\Images\\Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c"
     },
     {
+      "Id": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\File\\Images\\قاائمه المرضي بالعياده.png-064bff4b-227d-42ea-819f-6acb871106aa",
+      "PackagePath": "staticwebassets\\File\\Images\\قاائمه المرضي بالعياده.png-064bff4b-227d-42ea-819f-6acb871106aa"
+    },
+    {
       "Id": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\favicon.ico",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cNsTYjJGdCJkx97npsvnF0kuL21CZK/FDlUorc1ucSY=",
+  "Hash": "h/lvWHCFNmO9fda3mJVo06Rguj7AzeNSXhvTfZrWAl0=",
   "Source": "Company.Web",
   "BasePath": "_content/Company.Web",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\css\\style.css",
+      "SourceId": "Company.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\",
+      "BasePath": "_content/Company.Web",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\favicon.ico",
       "SourceId": "Company.Web",
       "SourceType": "Discovered",
@@ -110,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\File\\Images\\Screenshot 2021-12-19 082744.png-07cedb04-b99d-4410-a418-862682668d4c"
+    },
+    {
+      "Identity": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\File\\Images\\قاائمه المرضي بالعياده.png-064bff4b-227d-42ea-819f-6acb871106aa",
+      "SourceId": "Company.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\",
+      "BasePath": "_content/Company.Web",
+      "RelativePath": "File/Images/قاائمه المرضي بالعياده.png-064bff4b-227d-42ea-819f-6acb871106aa",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\File\\Images\\قاائمه المرضي بالعياده.png-064bff4b-227d-42ea-819f-6acb871106aa"
     },
     {
       "Identity": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\wwwroot\\js\\site.js",
