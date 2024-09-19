@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Bckend_route_ass\Mvc\Company.Web\Company.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Account/checkYorInpox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxjaGVja1lvcklucG94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Bckend_route_ass/Mvc/Company.Web/Company.Web/Views/Account/SignUP.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVVAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

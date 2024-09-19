@@ -3,72 +3,28 @@
   "WorkspaceRootPath": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\shared\\_autlayoutcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_autlayoutcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61CB32BD-7472-4FE0-88E5-F0F29CCE9ED0}|Company.Data\\Company.Data.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61CB32BD-7472-4FE0-88E5-F0F29CCE9ED0}|Company.Data\\Company.Data.csproj|solutionrelative:company.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Migrations\\20240910194808_editTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Company.Data\\Migrations\\20240910194808_editTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61CB32BD-7472-4FE0-88E5-F0F29CCE9ED0}|Company.Data\\Company.Data.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.data\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61CB32BD-7472-4FE0-88E5-F0F29CCE9ED0}|Company.Data\\Company.Data.csproj|solutionrelative:company.data\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Migrations\\20240910194313_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Company.Data\\Migrations\\20240910194313_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61CB32BD-7472-4FE0-88E5-F0F29CCE9ED0}|Company.Data\\Company.Data.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.data\\company.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{61CB32BD-7472-4FE0-88E5-F0F29CCE9ED0}|Company.Data\\Company.Data.csproj|solutionrelative:company.data\\company.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BFC55E6-3FC9-4104-A6BE-0CF91CEEA78F}|Company.Repository\\Company.Repository.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.repository\\repository\\employeereposoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BFC55E6-3FC9-4104-A6BE-0CF91CEEA78F}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repository\\employeereposoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85530200-6543-4A78-A08C-86B0DA636FED}|Company.Services\\Company.Service.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.services\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85530200-6543-4A78-A08C-86B0DA636FED}|Company.Services\\Company.Service.csproj|solutionrelative:company.services\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85530200-6543-4A78-A08C-86B0DA636FED}|Company.Services\\Company.Service.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.services\\helper\\documentpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85530200-6543-4A78-A08C-86B0DA636FED}|Company.Services\\Company.Service.csproj|solutionrelative:company.services\\helper\\documentpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85530200-6543-4A78-A08C-86B0DA636FED}|Company.Services\\Company.Service.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.services\\company.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{85530200-6543-4A78-A08C-86B0DA636FED}|Company.Services\\Company.Service.csproj|solutionrelative:company.services\\company.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\views\\shared\\_autlayoutcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_autlayoutcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29E02511-44D3-4E0E-AACB-94892CA309FF}|Company.Web\\Company.Web.csproj|e:\\bckend_route_ass\\mvc\\company.web\\company.web\\company.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -191,227 +147,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SignUP.cshtml",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\SignUP.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\SignUP.cshtml",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\SignUP.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Account\\SignUP.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T20:37:05.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_AutLayoutcshtml.cshtml",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T20:27:53.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Models\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Models\\SignUpViewModel.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Models\\SignUpViewModel.cs",
-              "RelativeToolTip": "Company.Web\\Models\\SignUpViewModel.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:53:41.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\AccountController.cs",
               "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Company.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAIAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAlwDoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:49:44.198Z",
+              "WhenOpened": "2024-09-19T01:30:42.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240910194808_editTables.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Migrations\\20240910194808_editTables.cs",
-              "RelativeDocumentMoniker": "Company.Data\\Migrations\\20240910194808_editTables.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Migrations\\20240910194808_editTables.cs",
-              "RelativeToolTip": "Company.Data\\Migrations\\20240910194808_editTables.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:48:08.839Z",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T01:23:07.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Company.Data\\Models\\ApplicationUser.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Company.Data\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Models\\SignUpViewModel.cs",
+              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "Company.Web\\Models\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T15:43:56.216Z",
+              "WhenOpened": "2024-09-19T01:15:10.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CompanyDBContext.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Context\\CompanyDBContext.cs",
-              "RelativeDocumentMoniker": "Company.Data\\Context\\CompanyDBContext.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Context\\CompanyDBContext.cs",
-              "RelativeToolTip": "Company.Data\\Context\\CompanyDBContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T15:36:03.292Z",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:26:32.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Program.cs",
-              "RelativeToolTip": "Company.Web\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAswCAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:14:54.77Z",
-              "EditorCaption": ""
+              "Title": "_AutLayoutcshtml.cshtml",
+              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
+              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Shared\\_AutLayoutcshtml.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T20:27:53.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUP.cshtml",
+              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\SignUP.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\SignUP.cshtml",
+              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Account\\SignUP.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\SignUP.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T20:37:05.685Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20240910194313_AddIdentityTables.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Migrations\\20240910194313_AddIdentityTables.cs",
-              "RelativeDocumentMoniker": "Company.Data\\Migrations\\20240910194313_AddIdentityTables.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Migrations\\20240910194313_AddIdentityTables.cs",
-              "RelativeToolTip": "Company.Data\\Migrations\\20240910194313_AddIdentityTables.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:43:13.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmployeeServices.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Services\\EmployeeServices.cs",
-              "RelativeDocumentMoniker": "Company.Services\\Services\\EmployeeServices.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Services\\EmployeeServices.cs",
-              "RelativeToolTip": "Company.Services\\Services\\EmployeeServices.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDwAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T00:53:56.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T01:20:52.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Company.Web\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAMwCYAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:08:47.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DocumentPath.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Helper\\DocumentPath.cs",
-              "RelativeDocumentMoniker": "Company.Services\\Helper\\DocumentPath.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Helper\\DocumentPath.cs",
-              "RelativeToolTip": "Company.Services\\Helper\\DocumentPath.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAewAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:14:55.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Company.Service.csproj",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Company.Service.csproj",
-              "RelativeDocumentMoniker": "Company.Services\\Company.Service.csproj",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Company.Service.csproj",
-              "RelativeToolTip": "Company.Services\\Company.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T18:31:31.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmployeeReposoitory.cs",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Repository\\EmployeeReposoitory.cs",
-              "RelativeDocumentMoniker": "Company.Repository\\Repository\\EmployeeReposoitory.cs",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Repository\\EmployeeReposoitory.cs",
-              "RelativeToolTip": "Company.Repository\\Repository\\EmployeeReposoitory.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T14:05:38.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Company.Data.csproj",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Company.Data.csproj",
-              "RelativeDocumentMoniker": "Company.Data\\Company.Data.csproj",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Company.Data.csproj",
-              "RelativeToolTip": "Company.Data\\Company.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T18:39:43.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T17:31:37.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\DepartmentController.cs",
@@ -424,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 11,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Company.Services\\Services\\DepartmentService.cs",
@@ -432,12 +243,11 @@
               "RelativeToolTip": "Company.Services\\Services\\DepartmentService.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAnwEAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:53:20.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T02:53:20.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\InterFaces\\Employee\\DTO\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "Company.Services\\InterFaces\\Employee\\DTO\\EmployeeDTO.cs",
@@ -445,12 +255,11 @@
               "RelativeToolTip": "Company.Services\\InterFaces\\Employee\\DTO\\EmployeeDTO.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAzwBcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:15:33.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T17:15:33.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "Company.Web.csproj",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Company.Web.csproj",
               "RelativeDocumentMoniker": "Company.Web\\Company.Web.csproj",
@@ -458,12 +267,11 @@
               "RelativeToolTip": "Company.Web\\Company.Web.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-07T17:19:33.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T17:19:33.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": "Update.cshtml",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Employee\\Update.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Update.cshtml",
@@ -471,12 +279,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Employee\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T01:52:16.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T01:52:16.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Create.cshtml",
@@ -484,12 +291,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Department\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T01:02:45.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T01:02:45.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Index.cshtml",
@@ -497,12 +303,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Department\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAvwAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:56:52.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T16:56:52.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
               "Title": "Detalis.cshtml",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Department\\Detalis.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Detalis.cshtml",
@@ -510,12 +315,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Department\\Detalis.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:56:37.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T16:56:37.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 14,
               "Title": "IDepartment.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\InterFaces\\Department\\IDepartment.cs",
               "RelativeDocumentMoniker": "Company.Services\\InterFaces\\Department\\IDepartment.cs",
@@ -523,12 +327,11 @@
               "RelativeToolTip": "Company.Services\\InterFaces\\Department\\IDepartment.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAzwBAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:54:11.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:54:11.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 15,
               "Title": "DepartmentDTO.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Services\\InterFaces\\DTO\\DepartmentDTO.cs",
               "RelativeDocumentMoniker": "Company.Services\\InterFaces\\DTO\\DepartmentDTO.cs",
@@ -536,12 +339,11 @@
               "RelativeToolTip": "Company.Services\\InterFaces\\DTO\\DepartmentDTO.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAIAywBAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:57:14.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:57:14.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 16,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Company.Data\\Models\\BaseEntity.cs",
@@ -549,12 +351,11 @@
               "RelativeToolTip": "Company.Data\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:00:21.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T16:00:21.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 17,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Company.Data\\Models\\Employee.cs",
@@ -562,12 +363,11 @@
               "RelativeToolTip": "Company.Data\\Models\\Employee.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAIBQwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T01:17:28.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T01:17:28.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 18,
               "Title": "Department.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Data\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Company.Data\\Models\\Department.cs",
@@ -575,12 +375,11 @@
               "RelativeToolTip": "Company.Data\\Models\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:57:25.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:57:25.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 22,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Company.Repository\\Repository\\UnitOfWork.cs",
@@ -588,12 +387,11 @@
               "RelativeToolTip": "Company.Repository\\Repository\\UnitOfWork.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:44:51.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T02:44:51.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 19,
               "Title": "_ActionButtons.cshtml",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\Views\\Shared\\_ActionButtons.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_ActionButtons.cshtml",
@@ -601,12 +399,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Shared\\_ActionButtons.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T14:48:01.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T14:48:01.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 20,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
@@ -614,12 +411,11 @@
               "RelativeToolTip": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T14:01:10.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T14:01:10.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 21,
               "Title": "IGenericRepostory.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Interfaces\\IGenericRepostory.cs",
               "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IGenericRepostory.cs",
@@ -627,12 +423,11 @@
               "RelativeToolTip": "Company.Repository\\Interfaces\\IGenericRepostory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:52:44.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T02:52:44.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 23,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Company.Repository\\Repository\\GenericRepository.cs",
@@ -640,12 +435,11 @@
               "RelativeToolTip": "Company.Repository\\Repository\\GenericRepository.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAgwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:52:47.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T02:52:47.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 24,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IUnitOfWork.cs",
@@ -653,12 +447,11 @@
               "RelativeToolTip": "Company.Repository\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:43:02.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T02:43:02.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 25,
               "Title": "Company.Repository.csproj",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Repository\\Company.Repository.csproj",
               "RelativeDocumentMoniker": "Company.Repository\\Company.Repository.csproj",
@@ -666,12 +459,11 @@
               "RelativeToolTip": "Company.Repository\\Company.Repository.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T19:48:16.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T19:48:16.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Bckend_route_ass\\Mvc\\Company.Web\\Company.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Company.Web\\appsettings.json",
@@ -679,8 +471,7 @@
               "RelativeToolTip": "Company.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-31T19:10:21.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T19:10:21.167Z"
             }
           ]
         }

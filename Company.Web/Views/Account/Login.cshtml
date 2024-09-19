@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AutLayoutcshtml.cshtml";
+}
+@model LoginViewModel
+
+
+
+<form asp-action="Login" method="post">
+
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <input type="text" asp-for="Email" placeholder="email" required class="form-control" />
+    <span asp-validation-for="Email"></span>
+    <br />
+
+    <input type="password" asp-for="Password" placeholder="Password" required class="form-control" />
+    <span asp-validation-for="Password"></span>
+    <br />
+
+    <div class="te">
+        <label>
+            <input asp-for="RemberMe" type="checkbox" required />
+            <span>I Agree to Thems & condition </span>
+        </label>
+        <div class="clear"></div>
+    </div>
+    <input type="submit" value="Login" class="btn btn-primary" />
+</form>
+<p>Do'nt   Have Acount?<a asp-action="SignUp">SignUp Now</a> </p>
+<p><a asp-action="ForgetPassword" >Forget Password ?</a> </p>
+
