@@ -70,6 +70,7 @@ namespace Company.Web
             app.UseRouting();
 
             app.UseAuthorization();
+          
             app.UseAuthentication();
 
             app.MapControllerRoute(

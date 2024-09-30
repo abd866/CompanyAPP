@@ -1,0 +1,30 @@
+﻿@model List<UserInRoleViewModel>
+
+@{
+    ViewData["Title"] = "AddOrRemoveUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var role = ViewBag.RoleId;
+}
+
+<h1>Add Or Remove User</h1>
+
+<form class="my-3" asp-action="AddOrRemoveUser" asp-route-RoleId="@role">
+    @for(var i = 0; i < Model.Count(); i++)
+    {
+        <div class="form-group">
+            <input  asp-for="@Model[i].IsSlected"/>
+
+            <label asp-for="@Model[i].IsSlected">@Model[i].UserName</label>
+        </div>
+
+        <input type="hidden" asp-for="@Model[i].UserName" />
+        <input type="hidden" asp-for="@Model[i].Id" />
+    }
+
+    <div class="form-group m-2">
+        <input type="submit" class="btn btn-success" />
+        <a class="btn btn-light" asp-controller="Role" asp-action="Update" asp-route-Id="@role">cancel</a>
+
+    </div>
+</form>
+

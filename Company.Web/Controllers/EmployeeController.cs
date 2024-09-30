@@ -3,12 +3,14 @@ using Company.Data.Context;
 using Company.Data.Models;
 using Company.Service.InterFaces;
 using Company.Service.InterFaces.Employee.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace Company.Web.Controllers
 {
+
     public class EmployeeController : Controller
     {
         private readonly IEmployee _employee;
